@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Header = ({ title }) => (
+  
   <div>
     <a href="/">Home</a>
     <a href="/about">About</a>
